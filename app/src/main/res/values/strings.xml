@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ConChord</string>
+    <string name="search">Search chords</string>
+    <string name="searchChord">Search</string>
+    <string name="back">Back</string>
+    <string name="info">Root, quality, tension, bass:</string>
+    <string name="infoStrings">Strings (E A D G B e):</string>
+    <string name="infoFingering">Fingering:</string>
+    <string name="tuner">Tune by ear</string>
+    <string name="highE">High E</string>
+    <string name="bassE">Low E</string>
+    <string name="B">B</string>
+    <string name="G">G</string>
+    <string name="D">D</string>
+    <string name="A">A</string>
+    <string name="stop">Stop sound</string>
+    <string name="infoStart">i</string>
+    <string name="objasnjenje">Once you search a chord, the app will show you multiple chords that have similar names to the chord you searched.<br/> The strings shown go from the low (thickest) E string, to the high (thinnest) e string.<br/><br/> The fingering information tells you which fingers should be on which strings.<br/>
+    Numbers represent fingers in this order:<br/> 1 - index finger<br/> 2 - middle finger<br/> 3 - ring finger<br/> 4 - pinky finger.<br/><br/> Root, quality, tension and bass tell you what certain tones are added to the chord in order to "enrich" it. </string>
+    <string name="ok">Ok</string>
+    <string name="phones">Use headphones if possible!</string>
+</resources>
